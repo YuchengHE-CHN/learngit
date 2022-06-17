@@ -2,3 +2,7 @@ git is amazing.
 
 
 first doc
+
+
+
+do u think git is fun?
